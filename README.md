@@ -42,11 +42,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,androidstudio,discord,notion,visualstudio,vscode,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,androidstudio,discord,notion,visualstudio,vscode,docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Nubes:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=azure,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=azure"/></td>
     </tr>
      <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Controles de version:</td>
