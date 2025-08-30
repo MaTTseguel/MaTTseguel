@@ -26,6 +26,32 @@
   <br/>
 </div>
 
+<h2>⭐ | Github Estadísticas </h2>
+
+<div align="center">
+<a href="https://github.com/MaTTseguel">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaTTseguel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTTseguel&layout=compact&langs_count=7&theme=default"/></a>
+</div>
+
+<h2>🛠️ | Lenguajes, Herramientas, Nubes y Controles de version</h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Lenguajes:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,androidstudio,discord,notion,visualstudio,vscode,"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Nubes:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=azure,docker"/></td>
+    </tr>
+     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Controles de version:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
  
 
 
