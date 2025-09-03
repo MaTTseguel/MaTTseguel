@@ -37,7 +37,7 @@
 <h2>🛠️ | Herramientas</h2>
 <table>
     <tr>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,docker,azure,github,git"/></td>
+        <td><img height="80" src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,docker,azure,github,git"/></td>
     </tr>
     
    
