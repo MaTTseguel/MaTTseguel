@@ -15,11 +15,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Mathias+Seguel+😁;" />
 
 <h2>📖 | Sobre mi</h2> 
-💻 Soy Técnico en Minería y futuro Ingeniero en Informática, con el objetivo de convertirme en Científico de Datos.  
-📊 Me apasiona el análisis de datos, la programación y la creación de soluciones tecnológicas que aporten valor.  
-🌱 Actualmente estoy aprendiendo Python, SQL y análisis de datos.  
-🚀 Busco seguir creciendo en el mundo de la ciencia de datos e inteligencia artificial.  
-
+<p>💻 Soy Técnico en Minería y futuro Ingeniero en Informática, 
+con el objetivo de convertirme en Científico de Datos.</p>
+<p>📊 Me apasiona el análisis de datos, la programación
+y la creación de soluciones tecnológicas que aporten valor.</p>  
+<p>🌱 Actualmente estoy aprendiendo Python, SQL y análisis de datos.</p>  
+<p>🚀 Busco seguir creciendo en el mundo de la ciencia de datos
+e inteligencia artificial.</p>
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
@@ -35,12 +37,12 @@
 </div>
 
 <h2>🛠️ | Herramientas</h2>
-<table>
-    <tr>
-        <td><img height="80" src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,docker,azure,github,git"/></td>
-    </tr>
-    
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,docker,azure,github,git" />
+  </a>
+</p>
    
- 
 
 
