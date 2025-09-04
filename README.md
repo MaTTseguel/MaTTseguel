@@ -24,7 +24,7 @@ y la creación de soluciones tecnológicas que aporten valor.</p>
 e inteligencia artificial.</p>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MaTTseguel/MaTTseguel/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
