@@ -27,7 +27,7 @@ e inteligencia artificial.</p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MaTTseguel/MaTTseguel/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 <h2>⭐ | Github Estadísticas </h2>
 
 <div align="center">
