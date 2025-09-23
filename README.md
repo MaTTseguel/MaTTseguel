@@ -40,7 +40,7 @@ e inteligencia artificial.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,azure,github,git,linux,r" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,css,html,mysql,js,anaconda,androidstudio,discord,notion,visualstudio,vscode,azure,github,git,linux,r,bigquery" />
   </a>
 </p>
    
